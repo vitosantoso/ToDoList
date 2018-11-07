@@ -8,6 +8,7 @@ public class ToDo {
     private UUID mID;
     private String mActivity;
     private Date mDate;
+    private UUID test;
 
     public ToDo() {
         mID = UUID.randomUUID();
