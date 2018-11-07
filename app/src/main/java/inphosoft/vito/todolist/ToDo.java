@@ -5,36 +5,36 @@ import java.util.UUID;
 
 public class ToDo {
 
-        private UUID mID;
-        private String mActivity;
-        private Date mDate;
+    private UUID mID;
+    private String mActivity;
+    private Date mDate;
 
-        public ToDo() {
-            mID = UUID.randomUUID();
-            mDate = new Date();
-        }
+    public ToDo() {
+        mID = UUID.randomUUID();
+        mDate = new Date();
+    }
 
-        public UUID getID() {
+    public UUID getID() {
             return mID;
         }
 
-        public void setID(UUID ID) {
+    public void setID(UUID ID) {
             mID = ID;
         }
 
-        public String getActivity() {
+    public String getActivity() {
             return mActivity;
         }
 
-        public void setActivity(String activity) {
+    public void setActivity(String activity) {
             mActivity = activity;
         }
 
-        public Date getDate() {
+    public Date getDate() {
             return mDate;
         }
 
-        public void setDate(Date date) {
+    public void setDate(Date date) {
             mDate = date;
         }
 
