@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="activity_details_hint">Enter a details for the activity</string>
+    <string name="activity_details_label">Details</string>
 </resources>
