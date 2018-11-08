@@ -2,4 +2,9 @@
     <string name="app_name">ToDoList</string>
     <string name="activity_details_hint">Enter a details for the activity</string>
     <string name="activity_details_label">Details</string>
+    <string name="placeholder_insert_date">Enter date here</string>
+    <string name="date_title">Due date</string>
+    <string name="task_title">What is to be done?</string>
+    <string name="placeholder_insert_task">Enter Task Here</string>
+    <string name="confirm_button">Add New Task</string>
 </resources>
